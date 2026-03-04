@@ -57,6 +57,7 @@ How It Works
 5. Forecast cards animate into view.
 ---
 Project Structure
+
 weather-forecast-app/
 │
 ├── index.html
@@ -87,7 +88,7 @@ Future Improvements
 - Weather-based background images
 - Hourly forecast view
 ---
-Author
+Author :
 Rajeswari Behera
 ---
 License
